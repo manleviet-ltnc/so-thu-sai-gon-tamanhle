@@ -1,0 +1,10 @@
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\bin\Debug\Sở thú Sài Gòn.exe.config
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\bin\Debug\Sở thú Sài Gòn.exe
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\bin\Debug\Sở thú Sài Gòn.pdb
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở thú Sài Gòn.csprojResolveAssemblyReference.cache
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở_thú_Sài_Gòn.Form1.resources
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở_thú_Sài_Gòn.Properties.Resources.resources
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở thú Sài Gòn.csproj.GenerateResource.Cache
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở thú Sài Gòn.csproj.CoreCompileInputs.cache
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở thú Sài Gòn.exe
+C:\Users\quanglong\Documents\GitHub\so-thu-sai-gon-tamanhle\Sở thú Sài Gòn\Sở thú Sài Gòn\obj\Debug\Sở thú Sài Gòn.pdb
