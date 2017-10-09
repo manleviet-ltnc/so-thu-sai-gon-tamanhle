@@ -97,5 +97,12 @@ namespace Sở_thú_Sài_Gòn
                                         DateTime.Now.Month,
                                         DateTime.Now.Year);
         }
+
+
+        private void mnuRemove_Click(object sender, System.EventArgs e)
+        { 
+            if(lstDanhSach.SelectedIndex != -1)
+            lstDanhSach.Items.Remove(lstDanhSach.SelectedIndex);
+        }
     }
 }
